@@ -4,6 +4,10 @@ A community-maintained checklist and database of Oreo flavors from around the wo
 
 The goal is simple: **discover, document, and taste as many Oreo flavors as possible.**
 
+## Flavor checklist
+
+See [`flavors.md`](flavors.md) for the human-friendly checklist.
+
 ## What belongs here?
 
 This repository is for documenting Oreo products and flavors, including:

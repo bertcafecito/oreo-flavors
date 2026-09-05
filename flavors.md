@@ -1,0 +1,12 @@
+# Oreo Flavor Checklist
+
+Use this file as the human-friendly master checklist.
+
+> Contributors: Please add new flavors and editing existing entries through a Pull Request rather than editing existing entries.
+
+## Classic
+
+- [ ] Original
+- [ ] Double Stuf
+- [ ] Mega Stuf
+- [ ] Golden
