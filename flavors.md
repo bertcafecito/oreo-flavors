@@ -15,6 +15,7 @@ Use this file as the human-friendly master checklist.
 
 - [ ] Chicken & Waffles — United States — 2026
 - [ ] Deep Fried — United States — 2026
+- [ ] Banana Pudding — United States — 2026
 
 ---
 
